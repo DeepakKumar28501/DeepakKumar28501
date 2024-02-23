@@ -5,9 +5,6 @@
 ![GitHub Cover](https://github.com/DeepakKumar28501/DeepakKumar28501/assets/121509463/3d6835d5-5b70-4e5a-9bf0-1efc81126d39)
     
 </p>
-<!----------------------------------- Tech Stack Section ------------------------------------>
-<h1 align="Center">About ME</h1>
-<p>A passionate and motivated software engineer with X years of experience in building innovative and scalable web applications. Skilled in JavaScript, React, Node.js, and other frontend and backend technologies. Eager to learn, collaborate, and contribute to challenging projects.</p>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 <h2 align="center">
