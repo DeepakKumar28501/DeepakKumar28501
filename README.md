@@ -57,6 +57,67 @@
 </p>
 <br>
 
+<h2 align="center">
+    My Top Repositories
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716459-e792742d-9443-4a83-96c4-fea099a560b7.png" width="30" />   
+    <a/>
+</h2>
+<p align="center">
+    <a href="https://github.com/DeepakKumar28501/crafty-commerce">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=DeepakKumar28501&repo=crafty-commerce&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
+    </a>
+    <a href="https://github.com/DeepakKumar28501/airbnb">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=DeepakKumar28501&repo=airbnb&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/DeepakKumar28501/spacex-capsules">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=DeepakKumar28501&repo=spacex-capsules&locale=en&border_radius=0&theme=dark" alt="crafty-commerce" />
+    </a>
+    <a href="https://github.com/DeepakKumar28501/tikkaway">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=DeepakKumar28501&repo=tikkaway&locale=en&border_radius=0&theme=dark" alt="tikkaway" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/DeepakKumar28501/mean-agency">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=DeepakKumar28501&repo=mean-agency&locale=en&border_radius=0&theme=dark" alt="mean-agency" />
+    </a>
+    <a href="https://github.com/DeepakKumar28501/portfolio">
+        <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/pin/?username=DeepakKumar28501&repo=portfolio&locale=en&border_radius=0&theme=dark" alt="portfolio" />
+    </a>
+</p>
+<br>
+<h2 align="center">
+    My Contributions on GitHub
+    <a>
+    <img align="center" src="https://user-images.githubusercontent.com/52236473/211459238-0e2284bc-b22f-410f-aa65-1ba1883c6983.png" width="30" />
+    </a>   
+</h2>
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/DeepakKumar28501/DeepakKumar28501/output/github-contribution-grid-snake.svg" alt="Snake Animation for GitHub Contributions"
+</p>
+<br>
+
+<!----------------------------------- Social Media Links Section ------------------------------------>
+<h2 align="center">
+    Connect with me
+    <a>
+        <img align="center" src="https://user-images.githubusercontent.com/52236473/210716966-d30ec997-ad2d-488e-9406-b7305bb3a72e.png" width="30" />
+    <a/>
+</h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/deepak-kumar-7844b6214/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/deepak-kumar-7844b6214/" />
+    </a>
+    <a href="https://twitter.com/KanoujiyaD62376">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/KanoujiyaD62376" />
+    </a>
+    <a title="deepakkumar.of28501@gmail.com" href="mailto:deepakkumar.of28501@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="deepakkumar.of28501@gmail.com" />
+    </a>
+</p>
+<br>
 
 
 
@@ -64,42 +125,4 @@
 
 
 
-## Skills and Expertise
 
-* **Frontend:** JavaScript, React, HTML, CSS, Bootstrap
-* **Backend:** Node.js, Express, MongoDB
-* **Version Control:** Git
-* **Soft Skills:** Communication, Teamwork, Problem-solving
-
-## Experience
-
-**Software Engineer, XYZ Company (2023 - Present)**
-
-* Developed and maintained features for a large-scale e-commerce platform, using React and Node.js.
-* Improved performance by 20% through code optimization and caching strategies.
-* Collaborated effectively with cross-functional teams to deliver projects on time and within budget.
-
-**Software Engineer Intern, ABC Company (2022)**
-
-* Built a real-time chat application using WebSockets and React.
-* Integrated third-party APIs for user authentication and data retrieval.
-* Gained valuable experience in working with agile methodologies and test-driven development.
-
-## Education
-
-**Bachelor of Science in Computer Science, University of ABC (2021)**
-
-## Projects
-
-* **Personal Portfolio Website:** A showcase of my skills and experience, built with React and deployed on Netlify.
-* **To-Do List Application:** A web-based application for managing tasks, using JavaScript and localStorage.
-* **Open-source Contribution:** Contributed bug fixes and enhancements to a popular JavaScript library on GitHub.
-
-## Awards and Recognition
-
-* Dean's List, University of ABC (2020)
-* Best Project Award, University Hackathon (2019)
-
-## Connect with Me
-
-I'm always open to connecting and collaborating on new projects. Feel free to reach out to me through the links above!
